@@ -235,7 +235,7 @@ body .heroBanner .images #hb-mockups-container img {
 }
 body .info-container {
   padding: 65px 7%;
-  background-color: #f3f4f6;
+  background-color: white;
 }
 body .info-container > h2 {
   font-weight: 400;
