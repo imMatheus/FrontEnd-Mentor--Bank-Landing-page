@@ -2,7 +2,7 @@
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
-#Live site:
+## Live site:
 https://immatheus-easybank-landingpage-frontend-mentor.netlify.app/
 
 ## Welcome! 👋
